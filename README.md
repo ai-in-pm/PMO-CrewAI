@@ -21,6 +21,6 @@ Remember to star and watch this repository to stay updated with the latest devel
 
 If you have any questions or need assistance, please don't hesitate to reach out. We're here to help you embrace the future of project management with autonomous AI agents!
 
-Stay tuned for updates and new releases!
+This Repository is still in its "DRAFT" Stage. Stay tuned for updates and new releases!
 
 Note: This repository serves as a platform for sharing knowledge and resources. Please ensure compliance with relevant laws, ethical guidelines, intellectual property rights, and data protection regulations when contributing or implementing AI solutions in your own projects.
