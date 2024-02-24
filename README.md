@@ -1,4 +1,4 @@
-# pmo-crewAI  
+# PMO-CrewAI  
 <img width="253" alt="image" src="https://github.com/iIPM2023/pmo-crewAI/assets/36999549/d9de056a-8103-47eb-882e-13094591ab0e">
 
 Welcome to the Autonomous AI Agents in Project Management Office (PMO) GitHub repository! This repository aims to explore the exciting intersection between artificial intelligence (AI) and project management, specifically focusing on the implementation and integration of autonomous AI agents within a PMO environment.
