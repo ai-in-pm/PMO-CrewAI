@@ -1,4 +1,5 @@
-image
+![Uploading image.png…]()
+
 Welcome to the Autonomous AI Agents in Project Management Office (PMO) GitHub repository! This repository aims to explore the exciting intersection between artificial intelligence (AI) and project management, specifically focusing on the implementation and integration of autonomous AI agents within a PMO environment.
 
 The goal is to leverage the power of AI to enhance and optimize project management practices, improve decision-making processes, and streamline project workflows. By utilizing advanced AI technologies, such as machine learning, natural language processing, and predictive analytics, we aim to develop intelligent agents that can autonomously assist project managers in various aspects of their roles.
